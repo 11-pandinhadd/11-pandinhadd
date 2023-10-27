@@ -1,16 +1,16 @@
-### Hi there 👋
+### * vindas ao meu perfil💙*
 
-<!--
-**11-pandinhadd/11-pandinhadd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é evelin
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.com.Alura.com.br)
+- Estou me desenvolvendo na linguagem javaScript 
+- Utilizo esse espaço para minha organização e compartilhamento de meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contado comigo📫
+
+Evelin.vogt@escola.pr.gov.br
+
+@Evelinvitória
+
+
+![image](https://github.com/11-pandinhadd/11-pandinhadd/assets/147162559/426606f0-db34-4cdd-9ec7-a9c603699a95)
